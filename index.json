@@ -1,0 +1,61 @@
+<section id="klRtBFB" data-type="section">
+  <style id="yByEsIH" type="text/css">
+    
+  @media screen and (min-width:0px){#qkQwSrl{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#ZdacykN{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#SbLUEGB{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#YBDTyOE{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#RLDuapO{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#eDvRLij{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#ILkUVpP{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#JZOBZUB{width:100%;height:100%;display:grid;place-content: center start;}}
+  @media screen and (min-width:0px){#ZLGwAGn{display:grid;padding:5%;max-width: 1100px;gap:35px;}}
+  @media screen and (min-width:0px){#ICBbIcK{font-size:clamp(4rem,8vw,8rem);line-height:90%;font-weight:900;color:white;}}
+  @media screen and (min-width:0px){#IdGcQGs{font-size:clamp(1rem,2vw,2rem);color:white;}}
+  @media screen and (min-width:0px){#awTqByo{display:flex;gap:10px;}}
+  @media screen and (min-width:0px){#pmzzsNI{background:black;padding:20px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (min-width:0px){#tajCbpA{background:white;padding:20px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (max-width:640px){#ZLGwAGn{gap:10px;}}
+  
+  </style>
+  
+  <div id="qkQwSrl" data-type="container">
+    <div id="YguAJKo" data-type="backgrounds">
+      
+      <div id="SbLUEGB" data-type="bg-color" class="div-hidden">
+        <div id="YBDTyOE" data-type="solid-color" class="div-visible" style="background: rgb(0, 0, 255);"></div>
+        <div id="RLDuapO" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
+        <div id="eDvRLij" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgba(255,0,0,0), rgba(255,0,0,1));"></div>
+      </div> <!-- bg-color -->
+
+      <div id="PfYyUaf" data-type="bg-image" class="div-hidden">
+        <picture id="yxAUFzL">
+          <source srcset="" media="(max-width:640px)">
+          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+          <img id="ZdacykN" src="./assets/image/tapas-hero1.png" data-type="img-bg" loading="lazy">
+        </picture>
+      </div> <!-- bg-image -->
+
+      <div id="uSDGedC" data-type="bg-video" class="div-visible">
+        <video id="ILkUVpP" autoplay="" loop="" muted="">
+          <source src="https://player.vimeo.com/external/225795808.sd.mp4?s=5660c500aefa4225e713381eac97886b2703c347&amp;profile_id=165&amp;oauth2_token_id=57447761" type="video/mp4">
+        </video>
+      </div> <!-- bg-video -->
+
+    </div> <!-- backgrounds -->
+
+    <div id="JZOBZUB" data-type="content">
+      <div id="ZLGwAGn">
+        <h2 id="ICBbIcK" contenteditable="true">Hotels</h2>
+        <p id="IdGcQGs" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont...</p>
+        <div id="awTqByo">
+          <a id="pmzzsNI" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          <a id="tajCbpA" contenteditable="true" href="https://www">LOREM IPSUM</a>
+        </div> <!-- div2ID -->
+      </div> <!-- div1ID -->
+    </div> <!-- content -->
+  </div> <!-- container -->
+  <button class="toolbar-open" onclick="toolsOpenModal(this);">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
